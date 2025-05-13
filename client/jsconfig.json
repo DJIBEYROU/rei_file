@@ -1,5 +1,5 @@
 {
-  {
+  
   "compilerOptions": {
     // …other options…
     "types": ["vite/client"]
@@ -8,7 +8,7 @@
     "client/src",
     "vite-env.d.ts"
   ]
-}
+
 
   "compilerOptions": {
     "moduleResolution": "bundler",
