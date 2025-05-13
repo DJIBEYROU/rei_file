@@ -1,16 +1,6 @@
 {
   
   "compilerOptions": {
-    // …other options…
-    "types": ["vite/client"]
-  },
-  "include": [
-    "client/src",
-    "vite-env.d.ts"
-  ]
-
-
-  "compilerOptions": {
     "moduleResolution": "bundler",
     "target": "ESNext",
     "module": "ESNext",
