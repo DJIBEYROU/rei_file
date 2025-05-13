@@ -1,0 +1,42 @@
+{
+  "japan": {
+    "max": 0,
+    "min": 0
+  },
+  "hokkaido": {
+    "max": 6000,
+    "min": -2000
+  },
+  "tohoku": {
+    "max": 19000,
+    "min": -7000
+  },
+  "tokyo": {
+    "max": 59000,
+    "min": -10000
+  },
+  "chubu": {
+    "max": 25000,
+    "min": -4000
+  },
+  "hokuriku": {
+    "max": 7000,
+    "min": -2000
+  },
+  "kansai": {
+    "max": 28000,
+    "min": -5000
+  },
+  "chugoku": {
+    "max": 11000,
+    "min": -3000
+  },
+  "shikoku": {
+    "max": 7000,
+    "min": -3000
+  },
+  "kyushu": {
+    "max": 18000,
+    "min": -6000
+  }
+}
